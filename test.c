@@ -1,8 +1,10 @@
 #include <stdio.h>
+#define Version 1
 
-int main(){
+int main() {
     int a = 1;
     printf("%d\n", a);
-    printf("Hello World");
+    printf("Hello World!\n");
+    printf("Patch Version : %d\n", Version);
     return 0;
 }
