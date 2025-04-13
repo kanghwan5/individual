@@ -5,6 +5,6 @@ int main() {
     int a = 1;
     printf("%d\n", a);
     printf("Hello World!\n");
-    printf("Patch Version : %d\n", Version);
+    printf("Patch Version : %d.1\n", Version);
     return 0;
 }
